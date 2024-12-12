@@ -15,7 +15,7 @@ setting it to 0, If you don't want to get stuck at loading screen.
 
 Theme work with Codex and Notebook Extensions, and others.
 
-Theme don't support MovingUI ! 
+Theme don't support MovingUI ! Reset it before use.
 
 Based on: AlmostDribbblish(IceFog72) -> Basic Discord Layout(IceFog72) -> st-discord-inspired(nyxkrage)
 
