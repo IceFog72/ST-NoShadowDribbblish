@@ -347,7 +347,7 @@ body:has(#bg1) {
 
   #movingDivs > #ctsi-drawer {
     width: calc(var(--ctsi-drawer-with) - var(--theme-margin)) !important;
-    right: calc(var(--settings-panel-width) + var(--authors-note-panel-width)) !important;
+    right: calc(var(--settings-panel-width) + var(--authors-note-panel-width) + var(--notebookPanel-width)) !important;
     background-color: var(--SmartThemeBlurTintColor) !important;
     z-index: 50 !important;
     left: unset;
@@ -580,6 +580,7 @@ body:has(#bg1) {
   #floatingPrompt,
   #character_select,
   #character_popup,
+  #movingDivs > #ctsi-drawer,
   #rm_ch_create_block {
     border: 1px  !important;
     border-color: var(--SmartThemeBorderColor) !important;
