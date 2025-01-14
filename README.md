@@ -3,13 +3,10 @@ Css layout theme for SillyTavern
  
 Inspiered by (old broken)Dribbblish Spicetify theme.
 
-Version with no shadows, and more refined. To turn off animations set - Blur Strength to 0 in ST.
+It is advisable to use for customizing the theme:
+https://github.com/IceFog72/SillyTavern-CustomThemeStyleInputs
 
-DO NOT EDIT !
-`
-  --animation-duration: 0.01s;
-`
-setting it to 0, If you don't want to get stuck at loading screen.
+and theme json with configurated settings: NoShadowDribbblish LunarV2
 
 
 
