@@ -16,7 +16,7 @@ Theme don't support MovingUI ! Reset it before use.
 
 Based on: AlmostDribbblish(IceFog72) -> Basic Discord Layout(IceFog72) -> st-discord-inspired(nyxkrage)
 
-You need to have this https://github.com/LenAnderson/SillyTavern-CssSnippets extension to import and manage css. Import SillyTavern-CSS-Snippets... to use it!
+You need to have this https://github.com/LenAnderson/SillyTavern-CssSnippets extension to import and manage Import SillyTavern-CSS-Snippets... to use it!
 
 Feedback:
 - My discord https://discord.gg/2tJcWeMjFQ 
