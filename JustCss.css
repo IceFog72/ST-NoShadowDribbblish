@@ -245,9 +245,13 @@ body:has(#bg1) {
   }
   
   body:has(#rm_ch_create_block:is([style*="display: block; opacity: 1;"])) {
-    --char-panel-width: calc(var(--NSDnormal-char-panel-width) * 1px);
+    --char-panel-width: calc(var(--NSDnormal-char-panel-width) * 1px) !important;
   }
   
+  body:has(#right-nav-panel.closedDrawer) {
+    --char-panel-width: 0px !important;
+  }
+
   body:has(.stcdx--root.stcdx--codex.stcdx--active) {
     --stcdxcodex: 400px !important;
   }
@@ -266,10 +270,6 @@ body:has(#bg1) {
   
   body:has(#notebookPanel.maximized) {
     --notebookPanel-width: 0px !important;
-  }
-  
-  body:has(#right-nav-panel.closedDrawer) {
-    --char-panel-width: 0px !important;
   }
   
   body:has(#left-nav-panel.openDrawer) {
@@ -768,7 +768,7 @@ body:has(#bg1) {
   
   #right-nav-panel {
     left: var(--nav-bar-width);
-    width: calc(var(--char-panel-width));
+    width: var(--char-panel-width);
     height: calc(100svh);
     z-index: 10 !important;
     max-height: unset;
