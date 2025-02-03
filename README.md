@@ -3,6 +3,8 @@ Css layout theme for SillyTavern
 
 ![image](https://github.com/user-attachments/assets/0693085a-a2d3-4962-a11a-ad7ded485967)
 
+![image](https://github.com/user-attachments/assets/342aac84-d9c7-4c99-ba8f-186ec32672ea)
+(BG Transparency - you can make only with Firefox/FirefoxPWA, it's need editing browser css, and little more editing about:config flags, just google - firefox mica bg)
 
 Inspiered by (old broken)Dribbblish Spicetify theme.
 
