@@ -1,6 +1,9 @@
 # ST-NoShadowDribbblish
 Css layout theme for SillyTavern 
- 
+
+![image](https://github.com/user-attachments/assets/0693085a-a2d3-4962-a11a-ad7ded485967)
+
+
 Inspiered by (old broken)Dribbblish Spicetify theme.
 
 It is advisable to use for customizing the theme:
