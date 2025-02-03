@@ -12,7 +12,7 @@ It is advisable to use for customizing the theme:
 https://github.com/IceFog72/SillyTavern-CustomThemeStyleInputs
 ![image](https://github.com/user-attachments/assets/94e443a8-e6c3-4e64-b91e-38f384c68b84)
 
-and theme json with configurated settings: NoShadowDribbblish LunarV2 !
+and theme json with configurated settings for SillyTavern-CustomThemeStyleInputs: NoShadowDribbblish LunarV2 !
 
 
 Theme work with Codex and Notebook Extensions, and others.
