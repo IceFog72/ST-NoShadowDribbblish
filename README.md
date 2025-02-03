@@ -25,7 +25,7 @@ You need to have this https://github.com/LenAnderson/SillyTavern-CssSnippets ext
 
 ![image](https://github.com/user-attachments/assets/05d2dfd2-cc48-44c2-a7ff-1d01c036a36f)
 
-Feedback:
+Feedback and last updates:
 - My discord https://discord.gg/2tJcWeMjFQ 
 - ST theme's discord thread https://discord.com/channels/1100685673633153084/1314063067142684764
 
